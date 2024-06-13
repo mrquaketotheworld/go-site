@@ -1,4 +1,4 @@
-module github.com/mrquaketotheworld/go-course
+module github.com/mrquaketotheworld/go-site
 
 go 1.21.3
 

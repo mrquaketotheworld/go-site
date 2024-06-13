@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/mrquaketotheworld/go-course/controllers"
-	"github.com/mrquaketotheworld/go-course/views"
+	"github.com/mrquaketotheworld/go-site/controllers"
+	"github.com/mrquaketotheworld/go-site/views"
 )
 
 func main() {

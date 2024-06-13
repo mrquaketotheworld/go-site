@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/mrquaketotheworld/go-course/views"
+	"github.com/mrquaketotheworld/go-site/views"
 )
 
 func StaticHandler(tpl views.Template) http.HandlerFunc {
